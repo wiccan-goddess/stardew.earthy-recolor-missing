@@ -2,22 +2,92 @@
     "Format": "",
     "Changes": [
         {
-            "Action": "",
-            "Target": "",
-            "FromFile": "",
+            "Action": "Load",
+            "Target": "GenericModConfigMenu/assets/config-button.png",
+            "FromFile": "assets/gmcm_config-button.png",
             "When": {
                 "HasMod": ""
-            },
-
-            "Priority": ""
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "GenericModConfigMenu/assets/keybinds-button.png",
+            "FromFile": "assets/gmcm_keybinds-button.png",
+            "When": {
+                "HasMod": ""
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "DeluxeJournal/assets/building-icons.png",
+            "FromFile": "assets/deluxe-journal_building-icons.png",
+            "When": {
+                "HasMod": ""
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "DeluxeJournal/assets/ui.png",
+            "FromFile": "assets/deluxe-journal_ui.png",
+            "When": {
+                "HasMod": ""
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "EventLookup/assets/button.png",
+            "FromFile": "assets/event-lookup_button.png",
+            "When": {
+                "HasMod": ""
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "EventLookup/assets/statusCover.png",
+            "FromFile": "assets/event-lookup_statusCover.png",
+            "When": {
+                "HasMod": ""
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "VanillaPlusProfessions/assets/TalentBG.png",
+            "FromFile": "assets/vpp_TalentBG.png",
+            "When": {
+                "HasMod": ""
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "VanillaPlusProfessions/assets/TalentSchema.png",
+            "FromFile": "assets/vpp_TalentSchema.png",
+            "When": {
+                "HasMod": ""
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "StardewAndChill/assets/button.png",
+            "FromFile": "assets/stardew-chill_button.png",
+            "When": {
+                "HasMod": ""
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "BetterJukebox/assets/BetterJukeboxGraphics.png",
+            "FromFile": "assets/BetterJukeboxGraphics.png",
+            "When": {
+                "HasMod": ""
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "FerngillSimpleEconomy/assets/stock-menu.png",
+            "FromFile": "assets/stock-menu.png",
+            "When": {
+                "HasMod": ""
+            }
         }
     ]
-
-// better jukebox
-// deluxe jounal
-// event lookup
-// ferngils simple economy
-// general mod config manager
-// stardew and chill
-// vanilla plus professions
 }

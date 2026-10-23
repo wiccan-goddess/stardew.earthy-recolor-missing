@@ -1,0 +1,30 @@
+Version 4.0.0 - Major Change/Fixes
+    CONTENT PATCHER IS WORKING!!!
+
+Version 3.1.0 - Update
+    Added Ferngill Simple Economy
+    Added Better Jukebox
+
+Version 3.0.0 - Fixes/Update
+    Fixed Event Lookup color not matching. Thank you to @Gach0mpez for bringing it to my attention.
+    Fixed GMCM asset name. Thanks to @Gach0mpez and @War4ged for informing me.
+    Added Stardew and Chill - Music Replacer
+
+Version 2.0.0 - Update
+    Added Vanilla Plus Professions
+
+Version 1.1.0 - Fixes/File Organization
+    Edited EventLookup background to better match the color of the social tab background
+    Combined all of the files back into one folder
+
+Version 1.0.2 - Fixes
+    Fixed a misnamed asset in Event Lookup. Thank you to @JennyBoBenny for informing me.
+
+Version 1.0.1 - Fixes
+    Fixed sizes for the assets in Deluxe Journal
+
+Version 1.0.0 - Initial Release
+    Includes:
+        Deluxe Journal
+        Event Lookup
+        Generic Mod Config Menu
