@@ -1,90 +1,90 @@
 {
-    "Format": "2.9.0",
+    "Format": "2.7.0",
     "Changes": [
         {
             "Action": "EditImage",
-            "Target": "Mods/GenericModConfigMenu/assets/config-button",
-            "FromFile": "assets/gmcm_config-button.png",
+            "Target": "Mods/spacechase0.GenericModConfigMenu/assets/config-button",
+            "FromFile": "assets/gmcm/config-button.png",
             "When": {
                 "HasMod": "spacechase0.GenericModConfigMenu"
             }
         },
         {
             "Action": "EditImage",
-            "Target": "Mods/GenericModConfigMenu/assets/keybinds-button",
-            "FromFile": "assets/gmcm_keybinds-button.png",
+            "Target": "Mods/spacechase0.GenericModConfigMenu/assets/keybinds-button",
+            "FromFile": "assets/gmcm/keybinds-button.png",
             "When": {
                 "HasMod": "spacechase0.GenericModConfigMenu"
             }
         },
         {
             "Action": "EditImage",
-            "Target": "Mods/DeluxeJournal/assets/building-icons",
-            "FromFile": "assets/deluxe-journal_building-icons.png",
+            "Target": "Mods/MolsonCAD.DeluxeJournal/assets/building-icons",
+            "FromFile": "assets/dj/building-icons.png",
             "When": {
                 "HasMod": "MolsonCAD.DeluxeJournal"
             }
         },
         {
             "Action": "EditImage",
-            "Target": "Mods/DeluxeJournal/assets/ui",
-            "FromFile": "assets/deluxe-journal_ui.png",
+            "Target": "Mods/MolsonCAD.DeluxeJournal/assets/ui",
+            "FromFile": "assets/dj/ui.png",
             "When": {
                 "HasMod": "MolsonCAD.DeluxeJournal"
             }
         },
         {
             "Action": "EditImage",
-            "Target": "Mods/EventLookup/assets/button",
-            "FromFile": "assets/event-lookup_button.png",
+            "Target": "Mods/shekurika.EventLookup/assets/button",
+            "FromFile": "assets/el/button.png",
             "When": {
                 "HasMod": "shekurika.EventLookup"
             }
         },
         {
             "Action": "EditImage",
-            "Target": "Mods/EventLookup/assets/statusCover",
-            "FromFile": "assets/event-lookup_statusCover.png",
+            "Target": "Mods/shekurika.EventLookup/assets/statusCover",
+            "FromFile": "assets/el/statusCover.png",
             "When": {
                 "HasMod": "shekurika.EventLookup"
             }
         },
         {
             "Action": "EditImage",
-            "Target": "Mods/Vanilla Plus Professions/VanillaPlusProfessions/assets/TalentBG",
-            "FromFile": "assets/vpp_TalentBG.png",
+            "Target": "Mods/KediDili.VanillaPlusProfessions/VanillaPlusProfessions/assets/TalentBG",
+            "FromFile": "assets/vpp/TalentBG.png",
             "When": {
                 "HasMod": "KediDili.VanillaPlusProfessions"
             }
         },
         {
             "Action": "EditImage",
-            "Target": "Mods/Vanilla Plus Professions/VanillaPlusProfessions/assets/TalentSchema",
-            "FromFile": "assets/vpp_TalentSchema.png",
+            "Target": "Mods/KediDili.VanillaPlusProfessions/VanillaPlusProfessions/assets/TalentSchema",
+            "FromFile": "assets/vpp/TalentSchema.png",
             "When": {
                 "HasMod": "KediDili.VanillaPlusProfessions"
             }
         },
         {
             "Action": "EditImage",
-            "Target": "Mods/StardewAndChill/button",
-            "FromFile": "assets/stardew-chill_button.png",
+            "Target": "Mods/mod.kitchen.stardewandchill/button",
+            "FromFile": "assets/sc/button.png",
             "When": {
                 "HasMod": "mod.kitchen.stardewandchill"
             }
         },
         {
             "Action": "EditImage",
-            "Target": "Mods/BetterJukebox/assets/BetterJukeboxGraphics",
-            "FromFile": "assets/BetterJukeboxGraphics.png",
+            "Target": "Mods/Gaphodil.BetterJukebox/assets/BetterJukeboxGraphics",
+            "FromFile": "assets/bj/BetterJukeboxGraphics.png",
             "When": {
                 "HasMod": "Gaphodil.BetterJukebox"
             }
         },
         {
             "Action": "EditImage",
-            "Target": "Mods/FerngillSimpleEconomy/FerngillSimpleEconomy/assets/stock-menu",
-            "FromFile": "assets/stock-menu.png",
+            "Target": "Mods/paulsteele.fse/FerngillSimpleEconomy/assets/stock-menu",
+            "FromFile": "assets/fse/stock-menu.png",
             "When": {
                 "HasMod": "paulsteele.fse"
             }
