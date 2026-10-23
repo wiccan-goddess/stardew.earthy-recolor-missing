@@ -3,7 +3,7 @@
     "Changes": [
         {
             "Action": "EditImage",
-            "Target": "GenericModConfigMenu/assets/config-button.png",
+            "Target": "Mods/GenericModConfigMenu/assets/config-button",
             "FromFile": "assets/gmcm_config-button.png",
             "When": {
                 "HasMod": "spacechase0.GenericModConfigMenu"
@@ -11,7 +11,7 @@
         },
         {
             "Action": "EditImage",
-            "Target": "GenericModConfigMenu/assets/keybinds-button.png",
+            "Target": "Mods/GenericModConfigMenu/assets/keybinds-button",
             "FromFile": "assets/gmcm_keybinds-button.png",
             "When": {
                 "HasMod": "spacechase0.GenericModConfigMenu"
@@ -19,7 +19,7 @@
         },
         {
             "Action": "EditImage",
-            "Target": "DeluxeJournal/assets/building-icons.png",
+            "Target": "Mods/DeluxeJournal/assets/building-icons",
             "FromFile": "assets/deluxe-journal_building-icons.png",
             "When": {
                 "HasMod": "MolsonCAD.DeluxeJournal"
@@ -27,7 +27,7 @@
         },
         {
             "Action": "EditImage",
-            "Target": "DeluxeJournal/assets/ui.png",
+            "Target": "Mods/DeluxeJournal/assets/ui",
             "FromFile": "assets/deluxe-journal_ui.png",
             "When": {
                 "HasMod": "MolsonCAD.DeluxeJournal"
@@ -35,7 +35,7 @@
         },
         {
             "Action": "EditImage",
-            "Target": "EventLookup/assets/button.png",
+            "Target": "Mods/EventLookup/assets/button",
             "FromFile": "assets/event-lookup_button.png",
             "When": {
                 "HasMod": "shekurika.EventLookup"
@@ -43,7 +43,7 @@
         },
         {
             "Action": "EditImage",
-            "Target": "EventLookup/assets/statusCover.png",
+            "Target": "Mods/EventLookup/assets/statusCover",
             "FromFile": "assets/event-lookup_statusCover.png",
             "When": {
                 "HasMod": "shekurika.EventLookup"
@@ -51,7 +51,7 @@
         },
         {
             "Action": "EditImage",
-            "Target": "Vanilla Plus Professions/VanillaPlusProfessions/assets/TalentBG.png",
+            "Target": "Mods/Vanilla Plus Professions/VanillaPlusProfessions/assets/TalentBG",
             "FromFile": "assets/vpp_TalentBG.png",
             "When": {
                 "HasMod": "KediDili.VanillaPlusProfessions"
@@ -59,7 +59,7 @@
         },
         {
             "Action": "EditImage",
-            "Target": "Vanilla Plus Professions/VanillaPlusProfessions/assets/TalentSchema.png",
+            "Target": "Mods/Vanilla Plus Professions/VanillaPlusProfessions/assets/TalentSchema",
             "FromFile": "assets/vpp_TalentSchema.png",
             "When": {
                 "HasMod": "KediDili.VanillaPlusProfessions"
@@ -67,7 +67,7 @@
         },
         {
             "Action": "EditImage",
-            "Target": "StardewAndChill/button.png",
+            "Target": "Mods/StardewAndChill/button",
             "FromFile": "assets/stardew-chill_button.png",
             "When": {
                 "HasMod": "mod.kitchen.stardewandchill"
@@ -75,7 +75,7 @@
         },
         {
             "Action": "EditImage",
-            "Target": "BetterJukebox/assets/BetterJukeboxGraphics.png",
+            "Target": "Mods/BetterJukebox/assets/BetterJukeboxGraphics",
             "FromFile": "assets/BetterJukeboxGraphics.png",
             "When": {
                 "HasMod": "Gaphodil.BetterJukebox"
@@ -83,7 +83,7 @@
         },
         {
             "Action": "EditImage",
-            "Target": "FerngillSimpleEconomy/FerngillSimpleEconomy/assets/stock-menu.png",
+            "Target": "Mods/FerngillSimpleEconomy/FerngillSimpleEconomy/assets/stock-menu",
             "FromFile": "assets/stock-menu.png",
             "When": {
                 "HasMod": "paulsteele.fse"
