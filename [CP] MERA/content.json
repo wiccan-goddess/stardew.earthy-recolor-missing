@@ -1,8 +1,8 @@
 {
-    "Format": "",
+    "Format": "2.9.0",
     "Changes": [
         {
-            "Action": "Load",
+            "Action": "EditImage",
             "Target": "GenericModConfigMenu/assets/config-button.png",
             "FromFile": "assets/gmcm_config-button.png",
             "When": {
@@ -10,7 +10,7 @@
             }
         },
         {
-            "Action": "Load",
+            "Action": "EditImage",
             "Target": "GenericModConfigMenu/assets/keybinds-button.png",
             "FromFile": "assets/gmcm_keybinds-button.png",
             "When": {
@@ -18,7 +18,7 @@
             }
         },
         {
-            "Action": "Load",
+            "Action": "EditImage",
             "Target": "DeluxeJournal/assets/building-icons.png",
             "FromFile": "assets/deluxe-journal_building-icons.png",
             "When": {
@@ -26,7 +26,7 @@
             }
         },
         {
-            "Action": "Load",
+            "Action": "EditImage",
             "Target": "DeluxeJournal/assets/ui.png",
             "FromFile": "assets/deluxe-journal_ui.png",
             "When": {
@@ -34,7 +34,7 @@
             }
         },
         {
-            "Action": "Load",
+            "Action": "EditImage",
             "Target": "EventLookup/assets/button.png",
             "FromFile": "assets/event-lookup_button.png",
             "When": {
@@ -42,7 +42,7 @@
             }
         },
         {
-            "Action": "Load",
+            "Action": "EditImage",
             "Target": "EventLookup/assets/statusCover.png",
             "FromFile": "assets/event-lookup_statusCover.png",
             "When": {
@@ -50,7 +50,7 @@
             }
         },
         {
-            "Action": "Load",
+            "Action": "EditImage",
             "Target": "Vanilla Plus Professions/VanillaPlusProfessions/assets/TalentBG.png",
             "FromFile": "assets/vpp_TalentBG.png",
             "When": {
@@ -58,7 +58,7 @@
             }
         },
         {
-            "Action": "Load",
+            "Action": "EditImage",
             "Target": "Vanilla Plus Professions/VanillaPlusProfessions/assets/TalentSchema.png",
             "FromFile": "assets/vpp_TalentSchema.png",
             "When": {
@@ -66,7 +66,7 @@
             }
         },
         {
-            "Action": "Load",
+            "Action": "EditImage",
             "Target": "StardewAndChill/button.png",
             "FromFile": "assets/stardew-chill_button.png",
             "When": {
@@ -74,7 +74,7 @@
             }
         },
         {
-            "Action": "Load",
+            "Action": "EditImage",
             "Target": "BetterJukebox/assets/BetterJukeboxGraphics.png",
             "FromFile": "assets/BetterJukeboxGraphics.png",
             "When": {
@@ -82,7 +82,7 @@
             }
         },
         {
-            "Action": "Load",
+            "Action": "EditImage",
             "Target": "FerngillSimpleEconomy/FerngillSimpleEconomy/assets/stock-menu.png",
             "FromFile": "assets/stock-menu.png",
             "When": {
