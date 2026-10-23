@@ -1,9 +1,6 @@
-Version 3.2.0 - Fixes/Updates/File Organization
-    Fixed 
-    Fixed 
-    Fixed 
-    Added 
-    Seperated all files for user convienience.
+Version 3.2.0 - Fixes/Updates
+    Fixed Better Jukebox missing stop and disk from file
+    Added Quality Smash
 
 Version 3.1.0 - Update
     Added Ferngill Simple Economy

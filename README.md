@@ -15,18 +15,17 @@ Mods Changed:
 - Stardew and Chill - Music Replacer
 - Better Jukebox
 - Ferngill Simple Economy
+- Quality Smash
 
 This is a replacement mod so all files will overwrite the originals. Make a backup if you'd like.
 
 Installation:
-- Download the file/s you want/need
-- Extract the folder/s
-- Paste the folders you want into your mod folder
+- Download the file
+- Extract the folder
+- Paste the extracted folders you want into your mod folder
 - Overwrite all files
 
 Planned:
-- Add Quality Smash (Pending Approval)
-- Add Font Settings (Pending Approval)
 - Figure out how to make this a CP mod so you don't have to replace files any time one of the included mods have an update that changes or adds any covered assts. (I feel like I shouldn't be struggling this much)
 
 If any of the original mod authors would like me to take your mod out of this list, please let me know.
