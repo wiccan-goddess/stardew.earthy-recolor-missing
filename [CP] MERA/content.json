@@ -51,7 +51,7 @@
         },
         {
             "Action": "Load",
-            "Target": "VanillaPlusProfessions/assets/TalentBG.png",
+            "Target": "Vanilla Plus Professions/VanillaPlusProfessions/assets/TalentBG.png",
             "FromFile": "assets/vpp_TalentBG.png",
             "When": {
                 "HasMod": "KediDili.VanillaPlusProfessions"
@@ -59,7 +59,7 @@
         },
         {
             "Action": "Load",
-            "Target": "VanillaPlusProfessions/assets/TalentSchema.png",
+            "Target": "Vanilla Plus Professions/VanillaPlusProfessions/assets/TalentSchema.png",
             "FromFile": "assets/vpp_TalentSchema.png",
             "When": {
                 "HasMod": "KediDili.VanillaPlusProfessions"
@@ -67,7 +67,7 @@
         },
         {
             "Action": "Load",
-            "Target": "StardewAndChill/assets/button.png",
+            "Target": "StardewAndChill/button.png",
             "FromFile": "assets/stardew-chill_button.png",
             "When": {
                 "HasMod": "mod.kitchen.stardewandchill"
@@ -83,7 +83,7 @@
         },
         {
             "Action": "Load",
-            "Target": "FerngillSimpleEconomy/assets/stock-menu.png",
+            "Target": "FerngillSimpleEconomy/FerngillSimpleEconomy/assets/stock-menu.png",
             "FromFile": "assets/stock-menu.png",
             "When": {
                 "HasMod": "paulsteele.fse"
