@@ -1,0 +1,1 @@
+# stardew.earthy-recolor-missing

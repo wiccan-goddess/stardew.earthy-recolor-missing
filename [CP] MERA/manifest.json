@@ -1,0 +1,46 @@
+{
+    "Name": "Earthy Interface - Missing Assets",
+    "Author": "Eepy Kitty",
+    "Version": "4.0.0",
+    "Description": "Replaces some other Mods assets to better match Daisy Niko's Earthy Interface.",
+    "UniqueID": "eepykitty.mera",
+    "UpdateKeys": ["Nexus:32169"],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    },
+    
+    "Dependencies": [
+        {
+            "UniqueID":"DaisyNiko.EarthyInterface",
+            "IsRequired":true
+        },
+        {
+            "UniqueID":"Gaphodil.BetterJukebox",
+            "IsRequired":false
+        },
+        {
+            "UniqueID":"MolsonCAD.DeluxeJournal",
+            "IsRequired":false
+        },
+        {
+            "UniqueID":"shekurika.EventLookup",
+            "IsRequired":false
+        },
+        {
+            "UniqueID":"paulsteele.fse",
+            "IsRequired":false
+        },
+        {
+            "UniqueID":"spacechase0.GenericModConfigMenu",
+            "IsRequired":false
+        },
+        {
+            "UniqueID":"mod.kitchen.stardewandchill",
+            "IsRequired":false
+        },
+        {
+            "UniqueID":"KediDili.VanillaPlusProfessions",
+            "IsRequired":false
+        }
+    ]
+}
