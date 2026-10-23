@@ -1,93 +1,78 @@
 {
-    "Format": "2.7.0",
+    "Format": "2.9.0",
     "Changes": [
-        {
+      {
             "Action": "EditImage",
-            "Target": "Mods/spacechase0.GenericModConfigMenu/assets/config-button",
-            "FromFile": "assets/gmcm/config-button.png",
+            "Target": "Mods/Gaphodil.BetterJukebox/BetterJukeboxGraphics",
+            "FromFile": "BetterJukebox/assets/{{TargetWithoutPath}}.png",
             "When": {
-                "HasMod": "spacechase0.GenericModConfigMenu"
-            }
-        },
-        {
+               "HasMod": "Gaphodil.BetterJukebox"
+            },
+            "Priority": "Late"
+      },
+      {
             "Action": "EditImage",
-            "Target": "Mods/spacechase0.GenericModConfigMenu/assets/keybinds-button",
-            "FromFile": "assets/gmcm/keybinds-button.png",
+            "Target": "Mods/MolsonCAD.DeluxeJournal/building-icons, Mods/MolsonCAD.DeluxeJournal/ui",
+            "FromFile": "DeluxeJournal/assets/{{TargetWithoutPath}}.png",
             "When": {
-                "HasMod": "spacechase0.GenericModConfigMenu"
-            }
-        },
-        {
+               "HasMod": "MolsonCAD.DeluxeJournal"
+            },
+            "Priority": "Late"
+      },
+      {
             "Action": "EditImage",
-            "Target": "Mods/MolsonCAD.DeluxeJournal/assets/building-icons",
-            "FromFile": "assets/dj/building-icons.png",
+            "Target": "Mods/shekurika.EventLookup/button, Mods/shekurika.EventLookup/statusCover",
+            "FromFile": "EventLookup/assets/{{TargetWithoutPath}}.png",
             "When": {
-                "HasMod": "MolsonCAD.DeluxeJournal"
-            }
-        },
-        {
+               "HasMod": "shekurika.EventLookup"
+            },
+            "Priority": "Late"
+      },
+      {
             "Action": "EditImage",
-            "Target": "Mods/MolsonCAD.DeluxeJournal/assets/ui",
-            "FromFile": "assets/dj/ui.png",
+            "Target": "Mods/paulsteele.fse/stock-menu",
+            "FromFile": "FerngillSimpleEconomy/FerngillSimpleEconomy/assets/{{TargetWithoutPath}}.png",
             "When": {
-                "HasMod": "MolsonCAD.DeluxeJournal"
-            }
-        },
-        {
+               "HasMod": "paulsteele.fse"
+            },
+            "Priority": "Late"
+      },
+      {
             "Action": "EditImage",
-            "Target": "Mods/shekurika.EventLookup/assets/button",
-            "FromFile": "assets/el/button.png",
+            "Target": "Mods/spacechase0.GenericModConfigMenu/config-button, Mods/spacechase0.GenericModConfigMenu/keybinds-button",
+            "FromFile": "GenericModConfigMenu/assets/{{TargetWithoutPath}}.png",
             "When": {
-                "HasMod": "shekurika.EventLookup"
-            }
-        },
-        {
+               "HasMod": "spacechase0.GenericModConfigMenu"
+            },
+            "Priority": "Late"
+      },
+      {
             "Action": "EditImage",
-            "Target": "Mods/shekurika.EventLookup/assets/statusCover",
-            "FromFile": "assets/el/statusCover.png",
+            "Target": "Mods/NormanPCN.QualitySmash/buttonColor, Mods/NormanPCN.QualitySmash/buttonQuality, Mods/NormanPCN.QualitySmash/buttonUndo",
+            "FromFile": "QualitySmash/assets/{{TargetWithoutPath}}.png",
             "When": {
-                "HasMod": "shekurika.EventLookup"
-            }
-        },
-        {
-            "Action": "EditImage",
-            "Target": "Mods/KediDili.VanillaPlusProfessions/VanillaPlusProfessions/assets/TalentBG",
-            "FromFile": "assets/vpp/TalentBG.png",
-            "When": {
-                "HasMod": "KediDili.VanillaPlusProfessions"
-            }
-        },
-        {
-            "Action": "EditImage",
-            "Target": "Mods/KediDili.VanillaPlusProfessions/VanillaPlusProfessions/assets/TalentSchema",
-            "FromFile": "assets/vpp/TalentSchema.png",
-            "When": {
-                "HasMod": "KediDili.VanillaPlusProfessions"
-            }
-        },
-        {
+               "HasMod": "NormanPCN.QualitySmash"
+            },
+            "Priority": "Late"
+      },
+      {
             "Action": "EditImage",
             "Target": "Mods/mod.kitchen.stardewandchill/button",
-            "FromFile": "assets/sc/button.png",
+            "FromFile": "StardewAndChill/{{TargetWithoutPath}}.png",
             "When": {
-                "HasMod": "mod.kitchen.stardewandchill"
-            }
-        },
-        {
+               "HasMod": "mod.kitchen.stardewandchill"
+            },
+            "Priority": "Late"
+      },
+      {
             "Action": "EditImage",
-            "Target": "Mods/Gaphodil.BetterJukebox/assets/BetterJukeboxGraphics",
-            "FromFile": "assets/bj/BetterJukeboxGraphics.png",
+            "Target": "Mods/KediDili.VanillaPlusProfessions/TalentBG, Mods/KediDili.VanillaPlusProfessions/TalentSchema",
+            "FromFile": "Vanilla Plus Professions/VanillaPlusProfessions/assets/{{TargetWithoutPath}}.png",
             "When": {
-                "HasMod": "Gaphodil.BetterJukebox"
-            }
-        },
-        {
-            "Action": "EditImage",
-            "Target": "Mods/paulsteele.fse/FerngillSimpleEconomy/assets/stock-menu",
-            "FromFile": "assets/fse/stock-menu.png",
-            "When": {
-                "HasMod": "paulsteele.fse"
-            }
-        }
+               "HasMod": "KediDili.VanillaPlusProfessions"
+            },
+            "Priority": "Late"
+      }
+
     ]
 }
