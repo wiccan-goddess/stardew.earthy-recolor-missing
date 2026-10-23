@@ -9,7 +9,7 @@ Base Mod:
 
 Mods Changed:
 - Generic Mod Config Menu
-- Deluxe Journal
+- Deluxe Journal --> Deluxe Journal Continued
 - Event Lookup
 - Vanilla Plus Professions
 - Stardew and Chill - Music Replacer
