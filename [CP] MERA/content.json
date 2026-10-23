@@ -6,7 +6,7 @@
             "Target": "GenericModConfigMenu/assets/config-button.png",
             "FromFile": "assets/gmcm_config-button.png",
             "When": {
-                "HasMod": ""
+                "HasMod": "spacechase0.GenericModConfigMenu"
             }
         },
         {
@@ -14,7 +14,7 @@
             "Target": "GenericModConfigMenu/assets/keybinds-button.png",
             "FromFile": "assets/gmcm_keybinds-button.png",
             "When": {
-                "HasMod": ""
+                "HasMod": "spacechase0.GenericModConfigMenu"
             }
         },
         {
@@ -22,7 +22,7 @@
             "Target": "DeluxeJournal/assets/building-icons.png",
             "FromFile": "assets/deluxe-journal_building-icons.png",
             "When": {
-                "HasMod": ""
+                "HasMod": "MolsonCAD.DeluxeJournal"
             }
         },
         {
@@ -30,7 +30,7 @@
             "Target": "DeluxeJournal/assets/ui.png",
             "FromFile": "assets/deluxe-journal_ui.png",
             "When": {
-                "HasMod": ""
+                "HasMod": "MolsonCAD.DeluxeJournal"
             }
         },
         {
@@ -38,7 +38,7 @@
             "Target": "EventLookup/assets/button.png",
             "FromFile": "assets/event-lookup_button.png",
             "When": {
-                "HasMod": ""
+                "HasMod": "shekurika.EventLookup"
             }
         },
         {
@@ -46,7 +46,7 @@
             "Target": "EventLookup/assets/statusCover.png",
             "FromFile": "assets/event-lookup_statusCover.png",
             "When": {
-                "HasMod": ""
+                "HasMod": "shekurika.EventLookup"
             }
         },
         {
@@ -54,7 +54,7 @@
             "Target": "VanillaPlusProfessions/assets/TalentBG.png",
             "FromFile": "assets/vpp_TalentBG.png",
             "When": {
-                "HasMod": ""
+                "HasMod": "KediDili.VanillaPlusProfessions"
             }
         },
         {
@@ -62,7 +62,7 @@
             "Target": "VanillaPlusProfessions/assets/TalentSchema.png",
             "FromFile": "assets/vpp_TalentSchema.png",
             "When": {
-                "HasMod": ""
+                "HasMod": "KediDili.VanillaPlusProfessions"
             }
         },
         {
@@ -70,7 +70,7 @@
             "Target": "StardewAndChill/assets/button.png",
             "FromFile": "assets/stardew-chill_button.png",
             "When": {
-                "HasMod": ""
+                "HasMod": "mod.kitchen.stardewandchill"
             }
         },
         {
@@ -78,7 +78,7 @@
             "Target": "BetterJukebox/assets/BetterJukeboxGraphics.png",
             "FromFile": "assets/BetterJukeboxGraphics.png",
             "When": {
-                "HasMod": ""
+                "HasMod": "Gaphodil.BetterJukebox"
             }
         },
         {
@@ -86,7 +86,7 @@
             "Target": "FerngillSimpleEconomy/assets/stock-menu.png",
             "FromFile": "assets/stock-menu.png",
             "When": {
-                "HasMod": ""
+                "HasMod": "paulsteele.fse"
             }
         }
     ]
